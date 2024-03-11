@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/suneetha-spa-react",
+        "create path (nt:unstructured) /content/dam/suneetha-spa-react/jcr:content",
+        "set properties on /content/dam/suneetha-spa-react/jcr:content\n  set cq:conf{String} to /conf/suneetha-spa-react\n  set jcr:title{String} to \"Suneetha SPA React\"\nend"
+    ]
+}
