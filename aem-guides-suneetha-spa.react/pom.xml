@@ -55,7 +55,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spa.project.core.version>1.3.10</spa.project.core.version>
-        <aem.sdk.api>2024.2.15262.20240224T002940Z-231200</aem.sdk.api>
+        <aem.sdk.api>2022.9.8722.20220912T101352Z-220800</aem.sdk.api>
         <aemanalyser.version>1.3.0</aemanalyser.version>
         <componentGroupName>Suneetha SPA React</componentGroupName>
     </properties>
